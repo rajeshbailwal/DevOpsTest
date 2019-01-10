@@ -1,0 +1,1 @@
+2019-01-02 19:07:34,288 [1] INFO  DeploymentScript.Program - Hello logging world!

@@ -1,0 +1,7 @@
+2019-01-04 10:34:07,160 [1] INFO DeploymentScript.Log - Older log files deleted successfully
+2019-01-04 10:34:07,164 [1] INFO DeploymentScript.Log - **Parameters**
+2019-01-04 10:34:07,833 [1] INFO DeploymentScript.Log - Matching count - started
+2019-01-04 10:34:07,839 [1] INFO DeploymentScript.Log - Matching count completed successfully - count matched
+2019-01-04 10:34:07,845 [1] INFO DeploymentScript.Log - Backup process started
+2019-01-04 10:34:09,352 [1] INFO DeploymentScript.Log - Backup process comppleted successfully
+2019-01-04 10:34:09,476 [1] INFO DeploymentScript.Log - Deployment started

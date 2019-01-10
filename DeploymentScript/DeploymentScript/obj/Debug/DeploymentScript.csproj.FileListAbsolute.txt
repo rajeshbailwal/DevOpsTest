@@ -1,0 +1,10 @@
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\bin\Debug\DeploymentScript.exe.config
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\bin\Debug\DeploymentScript.exe
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\bin\Debug\DeploymentScript.pdb
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\bin\Debug\log4net.dll
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\bin\Debug\log4net.xml
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\obj\Debug\DeploymentScript.csprojAssemblyReference.cache
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\obj\Debug\DeploymentScript.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\obj\Debug\DeploymentScript.csproj.CopyComplete
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\obj\Debug\DeploymentScript.exe
+C:\Users\Rajesh\Desktop\DevOps\Project\DeploymentScript\DeploymentScript\obj\Debug\DeploymentScript.pdb
